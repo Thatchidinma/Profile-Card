@@ -1,6 +1,6 @@
 ## My first task in the Zuri Team Hng12 intership program
 
-### stage One
+### Stage Zero
 
 ### Part 2: Your Profile Card
 
