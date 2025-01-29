@@ -75,7 +75,7 @@ img{
     margin: 0 2em;
 }
 
-.emailAddress, .currentLocation, .currentUTCTime{
+.emailAddress, .currentLocation, .currentTimeUTC{
     display: flex;
     justify-content: center;
     gap: 5px;
